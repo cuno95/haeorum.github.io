@@ -198,9 +198,8 @@ body {
 			<span><img src="https://cdn2.iconfinder.com/data/icons/office-38/24/office-40-128.png" alt="time" />날짜 : <strong>2020년 11월 29일 오후 3시</strong></span>
 		</div>
 		<div class="addr_wrap">
-			<span><img src="https://cdn4.iconfinder.com/data/icons/miu/24/house-home-real_estate-property-glyph-128.png" alt="place" />장소 : <strong>해오름교회</strong> | 경남 양산시 중앙로 206, 덕산빌딩 6층(북부동)</span>
+			<span><img src="https://cdn4.iconfinder.com/data/icons/miu/24/house-home-real_estate-property-glyph-128.png" alt="place" />장소 : <strong>해오름교회</strong> | 경남 양산시 중앙로 206, 덕산빌딩 6층</span>
 		</div>
-		<div class="map_wrap" id="map"></div>
 	</div>
 	
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
