@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>초대합니다</title>
@@ -192,7 +191,7 @@ body {
 				<!-- //이미지 추가 -->
 				<img src="https://user-images.githubusercontent.com/74969995/100102219-a3a6d280-2ea6-11eb-9a7f-2fe7896c2c23.png" class="img100" />
 				<img src="https://user-images.githubusercontent.com/74969995/100105635-f1253e80-2eaa-11eb-877c-0c84fb8dddc5.png" class="img100" />
-				<img src="https://cloud.githubusercontent.com/assets/16554116/12774534/375c0694-ca89-11e5-8af1-88a7179c3ec1.jpg" class="img100" />
+				<img src="https://user-images.githubusercontent.com/74969995/100105651-f5515c00-2eaa-11eb-85eb-6f32d10d6fa1.png" class="img100" />
 			</div>
 		</div>
 		
