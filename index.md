@@ -190,19 +190,12 @@ body {
 		<div class="slide_wrap">
 			<div id="autoplay" style="display:none;">
 				<!-- //이미지 추가 -->
-				<img src="https://cloud.githubusercontent.com/assets/16554116/12774533/375b55dc-ca89-11e5-9829-e5984d1d2efa.jpg" class="img100" />
-				<img src="https://cloud.githubusercontent.com/assets/16554116/12774535/375cf090-ca89-11e5-8589-c69d0f62defb.jpg" class="img100" />
+				<img src="https://user-images.githubusercontent.com/74969995/100102219-a3a6d280-2ea6-11eb-9a7f-2fe7896c2c23.png" class="img100" />
+				<img src="https://user-images.githubusercontent.com/74969995/100105635-f1253e80-2eaa-11eb-877c-0c84fb8dddc5.png" class="img100" />
 				<img src="https://cloud.githubusercontent.com/assets/16554116/12774534/375c0694-ca89-11e5-8af1-88a7179c3ec1.jpg" class="img100" />
 			</div>
 		</div>
-		<div class="content_wrap">
-			<h1><img src="https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Party-Poppers-128.png" alt="icon finder free icon" />우리 아가의 돌잔치에 초대합니다<img src="https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Party-Poppers-128.png" alt="icon finder free icon" /></h1>
-			항상 저희를 아껴주시고, 응원해 주시는 분들께<br />
-			감사의 말씀을 드립니다.<br />
-			소중한 분들께 조금이나마 보답하고자,<br />
-			우리 아가의 첫번째 돌잔치에 초대장을 보내드립니다.<br />
-			아무쪼록 오셔서 자리를 빛내 주셨으면 좋겠습니다.
-		</div>
+		
 		<div class="contact_wrap">
 			<a href="tel:055-384-0691" class="bg1"><img src="https://cdn4.iconfinder.com/data/icons/miu/24/device-iPhone-smartphone-vertical-glyph-128.png" alt="tel">교회전화</a>
 		</div>
