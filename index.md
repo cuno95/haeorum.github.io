@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>초대합니다</title>
