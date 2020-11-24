@@ -196,22 +196,12 @@ body {
 			<a href="tel:055-384-0691" class="bg1"><img src="https://cdn4.iconfinder.com/data/icons/miu/24/device-iPhone-smartphone-vertical-glyph-128.png" alt="tel">교회전화</a>
 		</div>
 		<div class="date_wrap">
-			<span><img src="https://cdn2.iconfinder.com/data/icons/office-38/24/office-40-128.png" alt="time" />초대일시 : <strong>2016년 02월 03일 오후 1시</strong></span>
+			<span><img src="https://cdn2.iconfinder.com/data/icons/office-38/24/office-40-128.png" alt="time" />날짜 : <strong>2020년 11월 29일 오후 3시</strong></span>
 		</div>
 		<div class="addr_wrap">
-			<span><img src="https://cdn4.iconfinder.com/data/icons/miu/24/house-home-real_estate-property-glyph-128.png" alt="place" />초대장소 : <strong>봄파티</strong> | 경기도 성남시 분당구 수내동21-1MS Plaza 10층</span>
+			<span><img src="https://cdn4.iconfinder.com/data/icons/miu/24/house-home-real_estate-property-glyph-128.png" alt="place" />초대장소 : <strong>해오름교회</strong> | 경남 양산시 중앙로 206, 덕산빌딩 6층</span>
 		</div>
 		<div class="map_wrap" id="map"></div>
-		<div class="tras_wrap">
-			<div>
-				<div class="what"><img src="https://cdn2.iconfinder.com/data/icons/vehicles-7/24/vehicles-04-128.png" alt="metro" />지하철</div>
-				<div class="is">분당선 수내역 3번 출구</div>
-			</div>
-			<div>
-				<div class="what"><img src="https://cdn2.iconfinder.com/data/icons/vehicles-7/24/vehicles-12-128.png" alt="metro" />버스</div>
-				<div class="is">2, 52, 220, 1303, 115, 52, 15, 17, 33, 52, 55-1, 250, 300, 380, 390, 520, 730, 5200, 5400</div>
-			</div>
-		</div>
 	</div>
 	
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
