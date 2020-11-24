@@ -8,10 +8,10 @@
 <meta property="og:site_name" content="babyparty" />
 <meta property="og:title" content="우리아이 생일을 축하해 주세요." />
 <meta property="og:description" content="2016년 2월 3일 오후 1시, 봄파티에서 우리아이 생일을 축하해주세요~" />
-<meta property="og:image" content="https://cloud.githubusercontent.com/assets/16554116/12774533/375b55dc-ca89-11e5-9829-e5984d1d2efa.jpg" />
+<meta property="og:image" content="https://user-images.githubusercontent.com/74969995/100100569-5de90a80-2ea4-11eb-8a20-c2c1dc0e284f.png" />
 <meta property="og:image" content="https://cloud.githubusercontent.com/assets/16554116/12774535/375cf090-ca89-11e5-8589-c69d0f62defb.jpg" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="rmsidtest.github.io" />
+<meta property="og:url" content="haeorum.github.io" />
 
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/jquery.slick/1.5.9/slick.css"/>
 <style>
@@ -190,9 +190,7 @@ body {
 		<div class="slide_wrap">
 			<div id="autoplay" style="display:none;">
 				<!-- //이미지 추가 -->
-				<img src="https://cloud.githubusercontent.com/assets/16554116/12774533/375b55dc-ca89-11e5-9829-e5984d1d2efa.jpg" class="img100" />
-				<img src="https://cloud.githubusercontent.com/assets/16554116/12774535/375cf090-ca89-11e5-8589-c69d0f62defb.jpg" class="img100" />
-				<img src="https://cloud.githubusercontent.com/assets/16554116/12774534/375c0694-ca89-11e5-8af1-88a7179c3ec1.jpg" class="img100" />
+				<img src="https://user-images.githubusercontent.com/74969995/100100569-5de90a80-2ea4-11eb-8a20-c2c1dc0e284f.png" class="img100" />
 			</div>
 		</div>
 		<div class="content_wrap">
