@@ -205,7 +205,7 @@ body {
 		<div class="map_wrap" id="map"></div>
 		
 	</div>
-	<div id="wrap2">
+	<div id="wrap">
 		<div class="slide_wrap">
 			<div id="autoplay" style="display:none;">
 				<!-- //이미지 추가 -->
