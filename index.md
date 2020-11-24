@@ -199,7 +199,7 @@ body {
 					<img src="https://user-images.githubusercontent.com/74969995/100105635-f1253e80-2eaa-11eb-877c-0c84fb8dddc5.png" class="img100" />
 				</div>
 			</div>
-		</
+		</div>
 		
 		<div class="contact_wrap">
 			<a href="tel:055-384-0691" class="bg1"><img src="https://cdn4.iconfinder.com/data/icons/miu/24/device-iPhone-smartphone-vertical-glyph-128.png" alt="tel">교회전화</a>
