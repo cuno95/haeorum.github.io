@@ -8,7 +8,7 @@
 <meta property="og:site_name" content="babyparty" />
 <meta property="og:title" content="임직 예식에 초대합니다" />
 <meta property="og:description" content="2020년 11월 29일 오후 3시, 해오름교회에서 우리아이 생일을 축하해주세요~" />
-<meta property="og:image" content="https://user-images.githubusercontent.com/74969995/100100569-5de90a80-2ea4-11eb-8a20-c2c1dc0e284f.png" />
+<meta property="og:image" content="https://user-images.githubusercontent.com/74969995/100102219-a3a6d280-2ea6-11eb-9a7f-2fe7896c2c23.png" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="haeorum.github.io" />
 
@@ -189,7 +189,7 @@ body {
 		<div class="slide_wrap">
 			<div id="autoplay" style="display:none;">
 				<!-- //이미지 추가 -->
-				<img src="https://user-images.githubusercontent.com/74969995/100100569-5de90a80-2ea4-11eb-8a20-c2c1dc0e284f.png" class="img100" />
+				<img src="https://user-images.githubusercontent.com/74969995/100102219-a3a6d280-2ea6-11eb-9a7f-2fe7896c2c23.png" class="img100" />
 			</div>
 		</div>
 		<div class="contact_wrap">
